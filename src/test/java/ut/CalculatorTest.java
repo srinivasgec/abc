@@ -41,5 +41,8 @@ public class CalculatorTest {
 	public void testDiv() {
 		assertTrue(cl.doDiv(8, 2) == 4);
 	}
+	public static void dis() {
+		System.out.println("hello");
+	}
 
 }
