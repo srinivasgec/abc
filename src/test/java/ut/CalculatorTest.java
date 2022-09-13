@@ -43,6 +43,7 @@ public class CalculatorTest {
 	}
 	public static void dis() {
 		System.out.println("hello");
+		System.out.println("hi");
 	}
 
 }
